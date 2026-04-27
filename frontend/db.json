@@ -1,0 +1,164 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Margherita Pizza",
+      "price": 500,
+      "category": "pizza",
+      "type": "veg",
+      "image": "https://placehold.co/800x600?text=Margherita+Pizza"
+    },
+    {
+      "id": 2,
+      "name": "Pepperoni Pizza",
+      "price": 650,
+      "category": "pizza",
+      "type": "non-veg",
+      "image": "https://placehold.co/800x600?text=Pepperoni+Pizza"
+    },
+    {
+      "id": 3,
+      "name": "Veg Burger",
+      "price": 220,
+      "category": "burger",
+      "type": "veg",
+      "image": "https://placehold.co/800x600?text=Veg+Burger"
+    },
+    {
+      "id": 4,
+      "name": "Chicken Burger",
+      "price": 300,
+      "category": "burger",
+      "type": "non-veg",
+      "image": "https://placehold.co/800x600?text=Chicken+Burger"
+    },
+    {
+      "id": 5,
+      "name": "Veg Sandwich",
+      "price": 180,
+      "category": "breakfast",
+      "type": "veg",
+      "image": "https://placehold.co/800x600?text=Veg+Sandwich"
+    },
+    {
+      "id": 6,
+      "name": "Egg Omelette",
+      "price": 150,
+      "category": "breakfast",
+      "type": "non-veg",
+      "image": "https://placehold.co/800x600?text=Egg+Omelette"
+    },
+    {
+      "id": 7,
+      "name": "Pancakes",
+      "price": 220,
+      "category": "breakfast",
+      "type": "veg",
+      "image": "https://placehold.co/800x600?text=Pancakes"
+    },
+    {
+      "id": 8,
+      "name": "Tomato Soup",
+      "price": 120,
+      "category": "soups",
+      "type": "veg",
+      "image": "https://placehold.co/800x600?text=Tomato+Soup"
+    },
+    {
+      "id": 9,
+      "name": "Chicken Soup",
+      "price": 180,
+      "category": "soups",
+      "type": "non-veg",
+      "image": "https://placehold.co/800x600?text=Chicken+Soup"
+    },
+    {
+      "id": 10,
+      "name": "Veg Pasta Alfredo",
+      "price": 280,
+      "category": "pasta",
+      "type": "veg",
+      "image": "https://placehold.co/800x600?text=Veg+Pasta"
+    },
+    {
+      "id": 11,
+      "name": "Chicken Pasta",
+      "price": 320,
+      "category": "pasta",
+      "type": "non-veg",
+      "image": "https://placehold.co/800x600?text=Chicken+Pasta"
+    },
+    {
+      "id": 12,
+      "name": "Spaghetti",
+      "price": 260,
+      "category": "pasta",
+      "type": "veg",
+      "image": "https://placehold.co/800x600?text=Spaghetti"
+    },
+    {
+      "id": 13,
+      "name": "Veg Thali",
+      "price": 350,
+      "category": "maincourse",
+      "type": "veg",
+      "image": "https://placehold.co/800x600?text=Veg+Thali"
+    },
+    {
+      "id": 14,
+      "name": "Chicken Curry",
+      "price": 420,
+      "category": "maincourse",
+      "type": "non-veg",
+      "image": "https://placehold.co/800x600?text=Chicken+Curry"
+    },
+    {
+      "id": 15,
+      "name": "Paneer Butter Masala",
+      "price": 380,
+      "category": "maincourse",
+      "type": "veg",
+      "image": "https://placehold.co/800x600?text=Paneer+Butter+Masala"
+    },
+    {
+      "id": 16,
+      "name": "Fried Rice",
+      "price": 240,
+      "category": "maincourse",
+      "type": "veg",
+      "image": "https://placehold.co/800x600?text=Fried+Rice"
+    },
+    {
+      "id": 17,
+      "name": "Chicken Fried Rice",
+      "price": 300,
+      "category": "maincourse",
+      "type": "non-veg",
+      "image": "https://placehold.co/800x600?text=Chicken+Fried+Rice"
+    },
+    {
+      "id": 18,
+      "name": "Hot & Sour Soup",
+      "price": 140,
+      "category": "soups",
+      "type": "veg",
+      "image": "https://placehold.co/800x600?text=Hot+Sour+Soup"
+    },
+    {
+      "id": 19,
+      "name": "Chicken Roll",
+      "price": 200,
+      "category": "breakfast",
+      "type": "non-veg",
+      "image": "https://placehold.co/800x600?text=Chicken+Roll"
+    },
+    {
+      "id": 20,
+      "name": "Veg Pizza Slice",
+      "price": 180,
+      "category": "pizza",
+      "type": "veg",
+      "image": "https://placehold.co/800x600?text=Pizza+Slice"
+    }
+  ]
+}
