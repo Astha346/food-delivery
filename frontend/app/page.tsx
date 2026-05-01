@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import FoodCard from "@/components/FoodCard";
 import TabNavbar from "@/components/navbar/TabNavbar";
 import { getFoods } from "@/lib/api";
+import CartDrawer from "@/components/CartDrawer";
 
 type Food = {
   id: number;
@@ -57,6 +58,7 @@ export default function HomePage() {
           />
         ))}
       </div>
+      <CartDrawer />
     </div>
   );
 }
