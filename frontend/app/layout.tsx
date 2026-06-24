@@ -1,7 +1,7 @@
 import "./globals.css";
 import TopNavbar from "@/components/navbar/TopNavbar";
 import Toast from "@/components/Toast";
-
+import Footer from "@/components/Footer";
 export default function RootLayout({
   children,
 }: {
@@ -17,7 +17,7 @@ export default function RootLayout({
 
         {/* GLOBAL TOAST */}
         <Toast />
-
+        <Footer />
       </body>
     </html>
   );
